@@ -8,6 +8,8 @@ class Demo_44{
 		System.out.println("Pushing Dev branch after master branch");
 		// modified code
 		System.out.println("A liitle modification for git");
+		// pull demo
+		System.out.println("Pull modifications");
 		
 	}
 }
