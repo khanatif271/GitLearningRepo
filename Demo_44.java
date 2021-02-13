@@ -4,6 +4,8 @@ class Demo_44{
 		int i;
 		i=Integer.parseInt(args[0]);
 		System.out.println("The value of integer is "+i);
+
+		System.out.println("Pushing Dev branch after master branch");
 	}
 	System.out.println("A liitle modification for git");
 }
