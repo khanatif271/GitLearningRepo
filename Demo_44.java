@@ -6,6 +6,8 @@ class Demo_44{
 		System.out.println("The value of integer is "+i);
 
 		System.out.println("Pushing Dev branch after master branch");
+		// modified code
+		System.out.println("A liitle modification for git");
+		
 	}
-	System.out.println("A liitle modification for git");
 }
